@@ -45,6 +45,8 @@ Debugging stories are fun! This is a collection of links to various debugging st
 
 [Fixing A Bug In An 18 Year Old Shockwave Game](https://mattbruv.github.io/ccsr-bugfix/)
 
+[Fixing Mass Effect black blobs on modern AMD CPUs ](https://cookieplmonster.github.io/2020/07/19/silentpatch-mass-effect/)
+
 [FriendNet / WoW message corruption](https://blog.makandra.com/2010/04/the-greatest-bug-i-never-fixed/)
 
 [FPGA / CPU timing bug](https://eli.thegreenplace.net/2003/10/30/hardware-debugging-is-hard)
